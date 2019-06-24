@@ -16,7 +16,7 @@
         <number_ref display_value="NI">1e427f010fe83200cd674f8ce1050e8b</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">02c0d165db3213002ecd9015ca96197a</super_class>
+        <super_class display_value="Task" name="task">0f78e6b664232300aadba650cb85d4bd</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
@@ -32,7 +32,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-01-24 22:46:35</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role>
+        <user_role/>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>
